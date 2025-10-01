@@ -1,0 +1,15 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: bc823691-0251-c74e-875b-6f05c8f05efc
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2354331d-fea8-7a24-3330-894b365c5829
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 2a5a268f-9330-260b-4598-0c1752e535ae
+  name: Labs
+  pageRef: /pages/labs
+  weight: 30
